@@ -1,0 +1,170 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    "classes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "classes\\CMyComments.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "classes\\CMySQL.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "classes\\Services_JSON.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\main.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\close.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\next.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo1.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo10.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo2.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo3.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo4.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo5.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo6.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo7.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo8.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\photo9.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\prev.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo1.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo10.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo2.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo3.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo4.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo5.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo6.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo7.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo8.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\thumb_photo9.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\script.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "photos_ajx.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "sql.sql"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
