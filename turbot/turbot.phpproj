@@ -1,0 +1,282 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    "Activities"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\classes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\classes\\CMyComments.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\classes\\CMySQL.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\classes\\Services_JSON.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\css\\main.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\close.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\next.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo1.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo10.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo2.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo3.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo4.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo5.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo6.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo7.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo8.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\photo9.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\prev.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo1.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo10.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo2.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo3.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo4.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo5.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo6.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo7.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo8.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\images\\thumb_photo9.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\js\\script.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\photos_ajx.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\PHPGallery.intellisense.cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\PHPGallery.phpproj"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\sql.sql"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\t1"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\t1\\.gitattributes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\t1\\.gitignore"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\test"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\test\\.gitattributes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\PHPGallery\\test\\.gitignore"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Activities\\travelReview.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Home"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Home\\home.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\DSCN0381 - Copy.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\DSCN0383 - Copy.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\DSCN0477 - Copy.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\IMG_3831.JPG"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\logo1.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\signup6.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Login"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Login\\login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Scripts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Scripts\\jquery-1.8.0.min.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Styles"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Styles\\login.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Styles\\Turbot.css"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
